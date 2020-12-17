@@ -1,0 +1,45 @@
+OBJECT_BASE 1905744.btg
+OBJECT SBPV.btg
+OBJECT_SHARED Models/Airport/windsock.xml -63.902094 -8.700527 91.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -63.901040 -8.717348 87.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -63.900876 -8.716503 87.5 0.00
+OBJECT_SIGN {@L}C{@Y}A{^r}|RWY01{@@,@L}C{@Y,^u}RWY19 -63.900911 -8.713490 88.5 182.79 3
+OBJECT_SIGN {@L}C{@Y,^l}A|{^u}B{@@,@L}C{@Y,^u}RWY01 -63.900807 -8.714975 88.0 3.93 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901195 -8.711446 89.3 78.45 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.900271 -8.711760 89.1 261.80 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901666 -8.711839 89.2 261.80 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901186 -8.711811 89.1 95.92 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.900302 -8.711397 89.2 279.27 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901697 -8.711476 89.3 279.27 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901371 -8.708273 90.3 78.45 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.900447 -8.708587 90.1 261.80 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901842 -8.708666 90.3 261.80 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901362 -8.708637 90.2 95.92 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.900478 -8.708223 90.2 279.27 3
+OBJECT_SIGN {hazard,no-entry,hazard} -63.901873 -8.708303 90.4 279.27 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}RAMP -63.901248 -8.706174 90.9 3.18 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}B|{^u}A -63.900919 -8.706154 90.8 3.18 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.900997 -8.704984 91.0 182.62 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.901319 -8.705001 91.1 182.62 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r} -63.901019 -8.701003 91.3 271.68 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r} -63.901034 -8.700699 91.3 271.68 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r}|{^u}B -63.900849 -8.703244 91.2 271.68 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r}|{^u}B -63.900874 -8.702891 91.3 271.68 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r}|{^u}B -63.900696 -8.705699 90.8 271.68 3
+OBJECT_SIGN {hazard,no-entry,hazard,@@,@Y,^l}C{^r}|{^u}B -63.900721 -8.705346 90.9 271.68 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}RAMP -63.901394 -8.703673 91.3 3.18 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}B|{^u}A -63.901066 -8.703653 91.2 3.18 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.901143 -8.702483 91.3 182.62 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.901466 -8.702500 91.4 182.62 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.901268 -8.700380 91.3 182.62 3
+OBJECT_SIGN {@L}C{@R,^l}MIL{no-entry,@@,@L}C{@Y,^u}RWY19 -63.901591 -8.700397 91.4 182.62 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}B|{^u}A -63.901537 -8.701380 91.4 3.18 3
+OBJECT_SIGN {@L}C{@R}MIL{^r,no-entry,@@,@L}C{@Y,^u}B|{^u}A -63.901208 -8.701361 91.4 3.18 3
+OBJECT_SIGN {@L}C{@R}RWY19{@@,@L}C{@Y,^u}RAMP -63.902071 -8.698981 91.2 48.41 3
+OBJECT_SIGN {@L}C{@R}RWY19{@@,@L}C{@Y,^u}RAMP -63.902290 -8.699216 91.3 48.41 3
+OBJECT_SIGN {@L}B{@R}01-19{@@,@L}B{@Y,^l}C{^r} -63.902029 -8.702976 91.5 92.01 3
+OBJECT_SIGN {@L}B{@R}01-19{@@,@L}B{@Y,^l}C{^r} -63.902017 -8.703301 91.5 92.01 3
+OBJECT_SIGN {@L}A{@R}01-19{@@,@L}A{@Y,^l}C{^r} -63.901376 -8.714102 88.3 94.48 3
+OBJECT_SIGN {@L}A{@R}01-19{@@,@L}A{@Y,^l}C{^r} -63.901357 -8.714415 88.2 94.48 3
+OBJECT_SIGN {@L}C{@R}RWY01{@@,@L}C{@Y,^u}RAMP -63.901118 -8.719388 86.7 138.47 3
+OBJECT_SIGN {@L}C{@R}RWY01{@@,@L}C{@Y,^u}RAMP -63.900858 -8.719607 86.7 138.47 3

@@ -1,0 +1,9 @@
+OBJECT_BASE 1922624.btg
+OBJECT SWBC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -62.925261 -0.981586 30.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -62.914025 -0.980995 33.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -62.922744 -0.980989 32.6 0.00
+OBJECT_SIGN {@L}A{@R}27-09{@@,@L}A{@Y}RAMP{^u} -62.921930 -0.980919 33.1 187.16 3
+OBJECT_SIGN {@L}A{@R}27-09{@@,@L}A{@Y}RAMP{^u} -62.922185 -0.980948 33.0 187.16 3
+OBJECT_SIGN {hazard,no-entry,hazard} -62.920607 -0.981143 33.8 357.24 3
+OBJECT_SIGN {hazard,no-entry,hazard} -62.920798 -0.981164 33.7 9.66 3
